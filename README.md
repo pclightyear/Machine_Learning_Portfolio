@@ -3,7 +3,7 @@ I'm a graduate of National Tsing Hua University (NTHU), one of the best universi
 
 ## Projects
 
-- [College Application Summarization](https://github.com/pclightyear/College_Application_Summarization): provide summarization for college applications to aid the review process of the committee. This repository is the implementation of my master thesis "[Provide Multi-Perspective Summarization for College Applications](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22111NTHU5394015%22.&searchmode=basic)".
+- [**College Application Summarization**](https://github.com/pclightyear/College_Application_Summarization): provide summarization for college applications to aid the review process of the committee. This repository is the implementation of my master thesis "[**Provide Multi-Perspective Summarization for College Applications**](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22111NTHU5394015%22.&searchmode=basic)".
 
 - [Predicting News Popularity](https://github.com/pclightyear/Predicting_News_Popularity): predict the popularity of the news articles, competition from the deep learning course of NTHU
 
