@@ -1,5 +1,5 @@
 # Yi-Zhen, Zhang's Machine Learning Portfolio
-I'm a graduate of National Tsing Hua University (NTHU), one of the best university in Taiwan. My journey into the world of machine learning began about four years ago. My prior experiences are primarily related to natural language processing, especially focusing on document summarization as my master thesis topic. I am currently actively seeking opportunities in the roles of machine learning engineer, data scientist, or data analyst. 
+I'm a machine learning engineer at CMoney, the biggest fintech company in Taiwan. My prior experiences are primarily related to applying NLP and LLM techniques to develop AI systems across various field, such as martech, fintech, and education. I am currently actively seeking opportunities in the roles of machine learning engineer.
 
 ## Projects
 
